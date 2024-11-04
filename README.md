@@ -14,6 +14,13 @@
 * 💻 As an aspiring Front-End Developer, I'm fascinated by the interplay between front-end design and back-end functionality. My foundation in HTML, CSS, JavaScript, along with a solid grasp of Vue.js and Node.js, empowers me to create seamless digital experiences and solve complex challenges.
 * 🌱 Beyond web development, I am actively expanding my skills in Data Structures and Algorithms (DSA), aiming to approach coding challenges with creativity and efficiency. I’m committed to continuous learning and growth, eager to contribute to impactful projects and innovate within the tech space.
 
+---
+
+## 🌐 Socials:
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/parisa--ghasemi/))
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
 
 
 ---
