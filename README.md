@@ -1,6 +1,6 @@
 
 <div align="center"> 
- 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>!  👋
+Hi there! I'm Parisa Ghasemi, a seasoned Front-End Developer with over 4 years of experience crafting responsive and dynamic web applications.  👋
 </div>
 
 ---
