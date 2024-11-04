@@ -11,8 +11,9 @@
 
 ---
 
-* 💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.
-* 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 Vue.js 𝚊𝚗𝚍 Node.js.
+* 💻 As an aspiring Front-End Developer, I'm fascinated by the interplay between front-end design and back-end functionality. My foundation in HTML, CSS, JavaScript, along with a solid grasp of Vue.js and Node.js, empowers me to create seamless digital experiences and solve complex challenges.
+* 🌱 Beyond web development, I am actively expanding my skills in Data Structures and Algorithms (DSA), aiming to approach coding challenges with creativity and efficiency. I’m committed to continuous learning and growth, eager to contribute to impactful projects and innovate within the tech space.
+
 
 
 ---
